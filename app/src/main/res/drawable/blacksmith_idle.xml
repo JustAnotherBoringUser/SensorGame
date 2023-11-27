@@ -1,0 +1,12 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+        <item android:drawable="@drawable/blacksmith1" android:duration="100" />
+        <item android:drawable="@drawable/blacksmith2" android:duration="100" />
+        <item android:drawable="@drawable/blacksmith3" android:duration="100" />
+        <item android:drawable="@drawable/blacksmith4" android:duration="100" />
+        <item android:drawable="@drawable/blacksmith5" android:duration="100" />
+        <item android:drawable="@drawable/blacksmith6" android:duration="100" />
+        <item android:drawable="@drawable/blacksmith7" android:duration="100" />
+        <item android:drawable="@drawable/blacksmith8" android:duration="100" />
+        <item android:drawable="@drawable/blacksmith9" android:duration="100" />
+</animation-list>
